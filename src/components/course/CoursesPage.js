@@ -20,7 +20,6 @@ class CoursesPage extends React.Component {
   browserHistory.push('/course');
 }
 
-
   render(){
     const {courses} = this.props;
 
